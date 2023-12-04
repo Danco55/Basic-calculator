@@ -30,6 +30,7 @@ function vypocitatfunkciu() {
   inputFieldEl.value = eval(inputFieldEl.value);
 }
 
+
 function pripojitfunckuuuu(buttonValue) {
   inputFieldEl.value += buttonValue;
 }
